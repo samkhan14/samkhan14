@@ -41,7 +41,7 @@ Feel free to reach out to me on LinkedIn. I'm open to new opportunities, collabo
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
