@@ -45,7 +45,7 @@ Feel free to reach out to me on LinkedIn. I'm open to new opportunities, collabo
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="100%">
 
 
 
