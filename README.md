@@ -1,39 +1,41 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">Hi there, I'm Sumaim Ahmed 👋
-I am a passionate and experienced web developer with over 5 years in the industry. My expertise spans across both frontend and backend technologies, making me a well-rounded full stack developer. Here's a snapshot of my skills and experience:
+### <div align="center">Hi there, I'm **Sumaim Ahmed** 👋</div>  
 
-🛠️ Skills
-Frontend:
-HTML, CSS, Bootstrap
-JavaScript (ES6+)
-React.js, Vue.js
-Backend:
-PHP, Laravel
-MySQL
-Content Management Systems:
-WordPress, Shopify
-Other Tools:
-Git, GitHub
-RESTful APIs
+🚀 **Full Stack Web Developer** with 7+ years of experience in building scalable, high-performing websites and applications. I specialize in both **frontend and backend development**, delivering secure, responsive, and user-friendly solutions across industries like **e-commerce, healthcare, education, and SaaS**.  
 
-💼 Professional Experience
-Full Stack Developer: 5+ years of building and maintaining dynamic, responsive websites and web applications.
-Frontend Development: Extensive experience in creating visually appealing and user-friendly interfaces.
-Backend Development: Skilled in designing and managing robust databases and server-side logic.
-E-commerce Solutions: Proficient in developing and customizing WordPress and Shopify websites.
+---
 
-📚 Continuous Learning
-I'm always eager to learn and stay updated with the latest trends and technologies in web development. Currently, I'm exploring:
+### 🛠️ Tech Stack & Skills  
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+), React.js, Vue.js  
+**Backend:** PHP, Laravel, REST APIs, MySQL  
+**CMS:** WordPress (Custom Themes & Plugins), WooCommerce, Shopify  
+**DevOps & Tools:** Git, GitHub, CI/CD, cPanel, Deployment Management  
+**Specialties:** E-commerce Stores, CRMs, Client Portals, SaaS Platforms, AI Chatbot Integrations  
 
-Advanced Vue.js concepts
-Headless CMS solutions
-Progressive Web Apps (PWAs)
+---
 
-📫 Let's Connect!
-Feel free to reach out to me on LinkedIn. I'm open to new opportunities, collaborations, and connecting with fellow developers!</div>  
-  
+### 💼 Professional Experience  
+- 7+ years of building and maintaining **dynamic, responsive websites & web applications**  
+- Developed **CRMs, project management platforms, and client portals** using Laravel, Vue.js & Inertia.js  
+- Delivered **custom WordPress solutions** with plugins, WooCommerce, and SEO optimization  
+- Integrated **Stripe & PayPal payment gateways** for secure transactions  
+- Managed **deployments on cPanel & CI/CD pipelines**, ensuring smooth production releases  
 
+---
+
+### 📚 Continuous Learning  
+Always exploring new technologies and improving my craft. Currently focused on:  
+- Advanced **Vue.js & React.js**  
+- **Headless CMS** (Strapi, Contentful)  
+- **Progressive Web Apps (PWAs)**  
+- Expanding expertise in **AI & Automation**  
+
+---
+
+### 📫 Let’s Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumaim-ahmed/) | 🔗 [Portfolio](#) | 🔗 [GitHub](https://github.com/samkhan14)  
+
+I’m open to **new opportunities, collaborations, and exciting projects**. Let’s create something impactful together!  
